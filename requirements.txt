@@ -1,0 +1,5 @@
+pandas
+scipy
+statsmodels
+scikit-learn
+plotly
