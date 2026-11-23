@@ -2,6 +2,15 @@
 
 A machine learning project focused on predicting credit card payment defaults through an interpretable logistic regression model. The project explores customer financial and demographic characteristics, evaluates predictive performance under class imbalance, and analyzes the factors associated with payment default.
 
+## Autores
+
+Proyecto desarrollado por:
+
+| Nombre | GitHub | Rol |
+|--------|--------|-----|
+| Nereyda PG | [@nery17pg](https://github.com/nery17pg) | Preprocesamiento, modelado y evaluación |
+| Tu nombre | [@quinterojatziri](https://github.com/quinterojatziri) | Análisis exploratorio, visualizaciones |
+
 ## Project Overview
 
 Credit risk assessment is an important task for financial institutions. Identifying customers who are more likely to default can support risk management and decision-making.
