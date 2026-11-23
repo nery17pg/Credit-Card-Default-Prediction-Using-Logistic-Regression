@@ -8,8 +8,8 @@ Proyecto desarrollado por:
 
 | Nombre | GitHub | Rol |
 |--------|--------|-----|
-| Nereyda PG | [@nery17pg](https://github.com/nery17pg) | Preprocesamiento, modelado y evaluación |
-| Tu nombre | [@quinterojatziri](https://github.com/quinterojatziri) | Análisis exploratorio, visualizaciones |
+| Nereyda Pérez González | [@nery17pg](https://github.com/nery17pg) | Preprocesamiento, modelado y evaluación |
+| Jatziri Quintero | [@quinterojatziri](https://github.com/quinterojatziri) | Análisis exploratorio, visualizaciones |
 
 ## Project Overview
 
